@@ -1,15 +1,6 @@
 Forecasting Method;MAD;MAPE;MSE
-Holt Winter; 12.433,03 ; 39,34 ; 206.724.136,73 
-Holt Winter Exponential Smoothing; 13.660,65 ; 39,40 ; 290.967.818,96 
-Linear Regression; 8.442,10 ; 26,36 ; 145.397.085,23 
-Autoregression; 7.686,73 ; 23,82 ; 118.995.841,93 
-Moving Average; 8.756,12 ; 26,83 ; 146.716.402,61 
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
+Holt Winter;12,433.03;39.34;206,724,136.73
+Holt Winter Exponential Smoothing;13,660.65;39.4;290,967,818.96
+Linear Regression;8,442.10;26.36;145,397,085.23
+Autoregression;7,686.73;23.82;118,995,841.93
+Moving Average;8,756.12;26.83;146,716,402.61
